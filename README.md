@@ -1,4 +1,4 @@
-# facebook-logo-centerer
+# facebook logo centerer
 A dumb, stupid however an awesome facebook home page logo centerer...
 
 
